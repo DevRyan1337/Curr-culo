@@ -1,0 +1,14 @@
+ul, p {
+    line-height: 20px;
+    margin: 30px;
+    list-style: none;
+}
+
+
+
+img {
+    width: 20px;
+    height: 20px;
+    margin-top: 8px;
+    margin-right: 10px;
+}
